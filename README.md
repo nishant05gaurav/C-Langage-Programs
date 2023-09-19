@@ -10,3 +10,4 @@
 - [Finding Factorial](https://github.com/nishant05gaurav/Hackerrank_Problem_Solutions/blob/main/C-Language/ExtraQ4.c)
 - [Geometry Problems 2](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Geometry_Problems2.c)
 - [Geometry Problems 6](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Geometry_Problem6.c)
+- [Steel Grade](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Steel_Grade.c)
