@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main()
+
+{
+	int a, b;
+
+	printf("Numbers between 1 and 300 who are Primes are respectively:");
+
+	for (a = 2; a <= 300; a++)
+	{
+		for (b = 2; b < a; b++)
+		{
+			if (a % b == 0)
+				break;
+		}
+		if (a == b)
+			printf("%d", a);
+	}
+	return 0;
+}
