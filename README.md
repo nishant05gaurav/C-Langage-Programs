@@ -11,3 +11,4 @@
 - [Geometry Problems 2](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Geometry_Problems2.c)
 - [Geometry Problems 6](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Geometry_Problem6.c)
 - [Steel Grade](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Steel_Grade.c)
+- [Prime Numbers b/w 1 & 300](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/PrimeNos_bw_1_300)
