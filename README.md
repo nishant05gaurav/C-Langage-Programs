@@ -14,4 +14,5 @@
 - [Prime Numbers b/w 1 & 300](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/PrimeNos_bw_1_300)
 - [Sum Of 25 Natural Numbers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Sum_Of_25_Natural_Numbc)
 - [Sum of Digits Of Number](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Sum_Of_Digits_Of_A_Number.c)
+- [Sum Of Elements Of An Array](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Sum_of_elements_of_array.c)
  
