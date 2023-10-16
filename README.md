@@ -19,4 +19,5 @@
 - [Trigonometric Ratios](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Trigonometric_Ratios.c)
 - [ Printing ASCII Values ](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/ASCII_Values.c)
 - [Matchstick Game](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Matchstick_Game.C)
+- [Reverse A Number](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Reverse_A_Number.c)
  
