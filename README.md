@@ -22,4 +22,5 @@
 - [Reverse A Number](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Reverse_A_Number.c)
 - [Colour Conversion](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Colour_Conversion.c)
 - [Boxers Weight](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Boxers_Weight.c)
+- [Wind Chill](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Wind_chill.c)
  
