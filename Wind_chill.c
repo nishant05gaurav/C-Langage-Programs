@@ -12,9 +12,8 @@ where t is the temperature and v is the wind velocity. Write a program to receiv
 
 int main()
 
-{
-
-    float t, v, wcf;
+{  
+   float t, v, wcf;
 
     printf("Enter the Temperature and the velocity:-\n");
     scanf("%f%f", &t, &v);
