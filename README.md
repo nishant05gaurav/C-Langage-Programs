@@ -24,4 +24,5 @@
 - [Boxers Weight](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Boxers_Weight.c)
 - [Wind Chill](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Wind_chill.c)
 - [Absolute Values](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Absolute_Value.c)
+- [Switch Case Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/SwitchCase_Problem_1.c)
  
