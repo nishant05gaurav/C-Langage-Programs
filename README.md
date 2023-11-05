@@ -26,4 +26,5 @@
 - [Absolute Values](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Absolute_Value.c)
 - [Switch Case Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/SwitchCase_Problem_1.c)
 - [Algebric Problem 1 Using Pointers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_1_Using_Pointers.c)
+- [Shifting Values Circularly](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Circular_ShiftValues_3_Numbers.c)
  
