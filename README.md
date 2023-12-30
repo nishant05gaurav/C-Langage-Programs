@@ -29,4 +29,5 @@
 - [Algebric Problem 1 Using Pointers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_1_Using_Pointers.c)
 - [Shifting Values Circularly](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Circular_ShiftValues_3_Numbers.c)
 - [Powers Of Two Numbers Using Loop](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/pow_of_two_numbers_using_loop.c)
+- [Array Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_1.c)
  
