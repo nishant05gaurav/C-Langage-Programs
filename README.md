@@ -31,4 +31,5 @@
 - [Powers Of Two Numbers Using Loop](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/pow_of_two_numbers_using_loop.c)
 - [Array Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_1.c)
 - [Array Problem 2](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_2.c)
+- [Algebric Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_1_Using_Pointers.c)
  
