@@ -32,4 +32,5 @@
 - [Array Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_1.c)
 - [Array Problem 2](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_2.c)
 - [Algebric Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_1_Using_Pointers.c)
+- [Array Problem 3](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_3.c)
  
