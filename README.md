@@ -34,4 +34,5 @@
 - [Algebric Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_1_Using_Pointers.c)
 - [Array Problem 3](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_3.c)
 - [Algebric Problem Using Pointers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_Using_Pointers.c)
+- [Addition Of Two Matrix](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Addition_Of_Two_Matrix.c)
  
