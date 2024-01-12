@@ -36,4 +36,5 @@
 - [Algebric Problem Using Pointers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_Using_Pointers.c)
 - [Addition Of Two Matrix](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Addition_Of_Two_Matrix.c)
 - [Algebra Of Matrix](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebra_Of_Two_Numbers.c)
+- [Area Of Triangles Using Pointers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Area_Of_Triangle_Using_Pointers.c)
  
