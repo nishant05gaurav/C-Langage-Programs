@@ -38,4 +38,5 @@
 - [Algebra Of Matrix](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebra_Of_Two_Numbers.c)
 - [Area Of Triangles Using Pointers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Area_Of_Triangle_Using_Pointers.c)
 - [Algebric Problem 1 Using Pointers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_1_Using_Pointers.c)
+- [Array Problem 5](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_5.c)
  
