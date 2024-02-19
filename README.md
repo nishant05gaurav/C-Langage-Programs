@@ -6,12 +6,12 @@
 ---
 - [Absolute Values](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Absolute_Value.c)
 - [Addition Of Two Matrix](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Addition_Of_Two_Matrix.c)
+- [Algerbra of two numbers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebra_Of_Two_Numbers.c)
 - [Array Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_1.c)
 - [Array Problem 2](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_2.c)
 - [Array Problem 3](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_3.c)
 - [Array Problem 4](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_4.c)
 - [Array Problem 5](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_5.c)
-- [Algerbra of two numbers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebra_Of_Two_Numbers.c)
 - [Algebric Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_1_Using_Pointers.c)
 - [Algebric Problem Using Pointers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_Using_Pointers.c)
 - [Algebra Of Matrix](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebra_Of_Two_Numbers.c)
