@@ -30,7 +30,7 @@
 - [Sum of Digits Of Number](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Sum_Of_Digits_Of_A_Number.c)
 - [Sum Of Elements Of An Array](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Sum_of_elements_of_array.c)
 - [Sum of the elements of the array](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Sum_of_elements_of_array.c)
-- [ Printing ASCII Values ](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/ASCII_Values.c)
+- [Printing ASCII Values ](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/ASCII_Values.c)
 - [Reverse A Number](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Reverse_A_Number.c)
 - [Boxers Weight](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Boxers_Weight.c)
 - [Powers Of Two Numbers Using Loop](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/pow_of_two_numbers_using_loop.c)
