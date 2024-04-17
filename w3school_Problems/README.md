@@ -6,6 +6,7 @@
 - [Question 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Question1.c)
 - [Question 2](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Question2.c)
 - [Question 3](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Question3.c)
+- [Question 4](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Question4.c)
 
 
 
