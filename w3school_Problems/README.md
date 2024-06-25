@@ -9,6 +9,7 @@
 - [Difference b/w Max & Min](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Diff_b%5Cw_Max%26Min.cpp)
 - [Average of Integer](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Average_Of_Integer.c)
 - [Palindrome](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Palindrome.c)
+- [Algebric Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Algebric_Problem.c)
 
 
 
