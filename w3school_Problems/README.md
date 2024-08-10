@@ -6,7 +6,6 @@
 - [Dates to Year, Week, Day](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Dates_to_year_week_days.c)
 - [Version of C](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Version_of_C.c)
 - [Print F&C ](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Printing_F_C.c)
-- [Difference b/w Max & Min](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Diff_b%5Cw_Max%26Min.cpp)
 - [Average of Integer](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Average_Of_Integer.c)
 - [Palindrome](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Palindrome.c)
 - [Algebric Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/w3school_Problems/Algebric_Problem.c)
