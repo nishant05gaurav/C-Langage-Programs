@@ -39,4 +39,4 @@
 - [Trigonometric Ratios](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Trigonometric_Ratios.c)
 - [Wind Chill](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Wind_chill.c)
 - [Year To Roman Equivalent](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Year_To_Roman_Equivalent.c)
-- [Triangle Validity](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Triangle_Validity.c)
+- [Triangle Validity](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Triangle_Validity.c) 
