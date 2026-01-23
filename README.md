@@ -2,11 +2,11 @@
 
 ![image](https://github.com/nishant05gaurav/C-Langage-Programs/assets/140972654/2c082726-863e-4883-aba6-4ca38b2da47d)
 ---
- 
+  
 - [**w3school Problems**](https://github.com/nishant05gaurav/C-Langage-Programs/tree/main/w3school_Problems)
 - [Absolute Values](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Absolute_Value.c)
 - [Addition Of Two Matrix](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Addition_Of_Two_Matrix.c)
-- [Algerbra of two numbers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebra_Of_Two_Numbers.c)
+- [Algebra of two numbers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebra_Of_Two_Numbers.c)
 - [Algebric Problem Using Pointers](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_Using_Pointers.c)
 - [Array Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Array_Problem_1.c)
 - [Algebric Problem 1](https://github.com/nishant05gaurav/C-Langage-Programs/blob/main/Algebric_Problem_1_Using_Pointers.c)
